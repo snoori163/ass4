@@ -18,6 +18,15 @@ h1{
   color: lightblue;
   text-align: center;
 }
+.hi{
+    margin: 2rem;
+    padding: 1rem;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 4rem;
+    color: lightblue;
+    
+}
 .butt{
   text-align: center;
 }

@@ -25,6 +25,14 @@ h1{
     font-weight: bold;
     font-size: 4rem;
     color: lightblue;
+    text-align: center;
+}
+.text{
+    margin: 2rem;
+    padding: 1rem;
+    font-family: Arial;
+    font-size: 2rem;
+    color: lightblue;
     
 }
 .butt{
